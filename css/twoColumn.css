@@ -1,0 +1,32 @@
+#header{
+	background-color: #999999;
+	clear:both;
+	margin-right: 5px;
+	height: 28%;
+}
+#left{
+	height:40%;
+	width: 73.5%;
+	float: left;
+	background-color: #999999;
+	margin-top:10px;
+}
+#right{
+	height:40%;
+	width: 24.5%;
+	float: right;
+	background-color: #999999;
+	margin-top:10px;
+	margin-right: 5px;
+	padding-right: 5px;
+	margin-bottom: 10px;
+}
+#footer{
+	background-color: #999999;
+	clear: both;
+	margin-right: 5px;
+	padding-top: 20px;
+	height: 28%;
+}
+
+

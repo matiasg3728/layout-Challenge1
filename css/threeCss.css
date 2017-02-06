@@ -1,0 +1,40 @@
+#top{
+	background-color: #999999;
+	margin-top: 10px;
+	clear: both;
+	height: 28%;
+	margin-right: 5px;
+}
+#left{
+	background-color: #999999;
+	float: left;
+	height: 40%;
+	width: 19%;
+	margin-top: 10px;
+	display: inline;
+
+}
+#middle{
+	background-color: #999999;
+	float: left;
+	height: 40%;
+	width: 59.7%;
+	margin:10px;
+	display: inline;
+}
+#right{
+	background-color: #999999;
+	float: right;
+	height: 40%;
+	width: 19%;
+	margin-top: 10px;
+	margin-right: 5px;
+	display: inline;
+}
+#bottom{
+	background-color: #999999;
+	clear: both;
+	margin-right: 5px;
+	padding-top: 20px;
+	height: 28%;
+}

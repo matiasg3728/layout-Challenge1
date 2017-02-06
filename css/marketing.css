@@ -1,0 +1,43 @@
+#bottom{
+	background-color: #999999;
+	clear: both;
+	margin-right: 5px;
+	margin-top: 10px;
+	height: 19%;
+}
+.triplets{
+	display: inline;
+	float: left;
+	height:19%;
+	width: 31.8283%;
+	background-color: #999999;
+	margin-right: 12px;
+	margin-bottom: 10px;
+}
+#right{
+	background-color: #999999;
+	float: left;
+	height: 39%;
+	width: 99%;
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+	clear: both;
+}
+#top{
+	float:left;
+	background-color: #999999;
+	margin-bottom: 10px;
+	height: 12%;
+	width: 20%;
+	clear: both;
+}
+.pentuplets{
+	float:right;
+	height:30px;
+	width: 60px;
+	background-color: #999999;
+	margin-left: 10px;
+	margin-top: 25px;
+
+}

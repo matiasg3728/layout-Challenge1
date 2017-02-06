@@ -1,0 +1,46 @@
+
+.triplets{
+	display: inline;
+	float: left;
+	height:19%;
+	width: 32.07%;
+	background-color: #999999;
+	margin-right: 12px;
+	margin-bottom: 10px;
+}
+#tR{
+	margin-right:0px;}
+#top{
+	background-color: #999999;
+	clear:both;
+	margin-right: 5px;
+	height: 19%;
+}
+
+#left{
+	height:39%;
+	width: 49%;
+	float: left;
+	background-color: #999999;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+#right{
+	background-color: #999999;
+	float: right;
+	height: 39%;
+	width: 49%;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	display: inline;
+}
+
+#bottom{
+	background-color: #999999;
+	clear: both;
+	margin-right: 5px;
+	margin-top: 10px;
+	height: 19%;
+}
